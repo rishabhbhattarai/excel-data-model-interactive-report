@@ -7,7 +7,7 @@ As a Data Analyst, I built an **Excel-based data model and interactive dashboard
 
 🔹 **Goal:** Consolidate multiple raw CSVs → build relational data model → analyze trends → deliver insights through an interactive report.
 
-🔹 **Tech Stack:** Excel (Power Query, Power Pivot, DAX, PivotCharts)
+🔹 **Tool:** Excel (Power Query, Power Pivot, DAX, PivotCharts)
 
 
 ---
